@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "learning bootstrap v5 with sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Verenasworld/bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "CodersBayViennaVS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Verenasworld/bootstrap/issues"
+  },
+  "homepage": "https://gitlab.com/Verenasworld/bootstrap#readme",
+  "devDependencies": {
+    "sass": "^1.49.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
