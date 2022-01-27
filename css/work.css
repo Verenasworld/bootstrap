@@ -1,0 +1,11 @@
+.hover-link{
+    text-decoration: none;
+}
+div .hover-link:hover img{
+    transform: scale(0.9);
+    transition: all ease-in-out 1s;
+}
+
+ h2{
+     padding-top: 3rem;
+ }
