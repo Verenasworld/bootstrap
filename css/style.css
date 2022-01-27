@@ -3,7 +3,7 @@
  * 1 | @import "node_modules/bootstrap/scss/bootstrap";
  *   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  *   '
- *   scss\_costum.scss 1:9  @use
+
  *   scss\style.scss 1:1    root stylesheet */
 
 body::before {
