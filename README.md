@@ -1,4 +1,9 @@
+
+#npm i 
+
 # Bootstrap
+#npm run comile:sass
+
 
 
 
