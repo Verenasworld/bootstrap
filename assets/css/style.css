@@ -344,6 +344,10 @@ textarea {
   font-size: inherit;
   line-height: inherit;
 }
+textarea {
+  height: 5rem!important;
+
+}
 
 button,
 select {
@@ -2181,7 +2185,7 @@ progress {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #ff00ea;
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid #ced4da;
@@ -2299,7 +2303,7 @@ progress {
 .form-control-lg {
   min-height: calc(1.5em + 1rem + 2px);
   padding: 0.5rem 1rem;
-  font-size: 1.25rem;
+
   border-radius: 0.3rem;
 }
 .form-control-lg::file-selector-button {
@@ -2313,8 +2317,9 @@ progress {
   margin-inline-end: 1rem;
 }
 
+
 textarea.form-control {
-  min-height: calc(1.5em + 0.75rem + 2px);
+  min-height: calc(1.5em + 0.75rem + 1px);
 }
 textarea.form-control-sm {
   min-height: calc(1.5em + 0.5rem + 2px);
@@ -2915,7 +2920,7 @@ textarea.form-control-lg {
   }
 }
 .btn:hover {
-  color: #212529;
+  color: #6ca4dc;
 }
 .btn-check:focus + .btn, .btn:focus {
   outline: 0;
